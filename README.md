@@ -2,7 +2,7 @@
 <img loading="lazy" src="https://img.shields.io/github/stars/DanielSouza2005/Site-SodieDoces?style=social"/> 
 
 <h2>💡 Sobre</h2>
-<p>Site desenvolvido durante as aulas de Desenvolvimento Web, utilizando um template Bootstrap selecionado pelo professor e personalizado com edições próprias. O projeto visa representar a presença online da confeitaria Sodiê Doces, destacando seus produtos e facilitando o contato com os clientes.</p> 
+<p>Site desenvolvido durante as aulas de Desenvolvimento Web, utilizando um template Bootstrap selecionado pelo professor e personalizado com edições próprias. O projeto visa representar a presença online da confeitaria Sodiê Doces, destacando seus produtos e facilitando o contato com os clientes (com dados e fotos fictícias)</p> 
 
 <h2>🖥️ Tecnologias Utilizadas</h2> 
 <div align="left" dir="auto"> 
